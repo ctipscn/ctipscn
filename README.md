@@ -45,7 +45,7 @@ style:     secure by default · clean architecture · useful products first
 | [ctipscn/weauth](https://github.com/ctipscn/weauth) | [www.weauth.cn](https://www.weauth.cn/) | 基于工作量证明（PoW）的人机验证与反滥用平台，包含 Go 后端、React 控制台和可嵌入 widget。 | Go · Gin · PostgreSQL · React · Vite |
 | [ctipscn/ecloud-database](https://github.com/ctipscn/ecloud-database) | [ecd.cloud.emoera.com](https://ecd.cloud.emoera.com/) | 云数据库服务，支持 MySQL / PostgreSQL 实例分配、用户凭据、配额与 OIDC 登录。 | FastAPI · SQLAlchemy · React · Vite |
 | [ctipscn/ecloud-storage](https://github.com/ctipscn/ecloud-storage) | [eoss.cloud.emoera.com](https://eoss.cloud.emoera.com/) | 面向对象存储的控制台和 API，支持 MinIO/S3、桶管理、对象上传、API Key 和配额。 | FastAPI · MinIO · MySQL · React |
-| [ctipscn/ecloud-statistics](https://github.com/ctipscn/ecloud-statistics) | [tongji-api.emoera.top](https://tongji-api.emoera.top/) | 轻量级网页统计服务，提供采集脚本、访问统计 API 和 token 保护的管理页。 | Express · MySQL · Pug |
+| [ctipscn/ecloud-statistics](https://github.com/ctipscn/ecloud-statistics) | [cloud.emoera.com/web-stats](https://cloud.emoera.com/web-stats) | 轻量级网页统计服务，提供采集脚本、访问统计 API 和 token 保护的管理页。 | Express · MySQL · Pug |
 
 ### Miaoji Lab Projects
 
