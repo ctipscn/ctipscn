@@ -51,7 +51,7 @@ style:     secure by default · clean architecture · useful products first
 
 | Project | Demo | What it does | Stack |
 | :-- | :-- | :-- | :-- |
-| [miaojilab/emoera-eid](https://github.com/miaojilab/emoera-eid) | [account.emoera.com](https://account.emoera.com/) | 统一身份与会员中心，覆盖账号、OAuth/OIDC、会员资料、报名与审核流程。 | Django · Python · MySQL |
+| [miaojilab/emoera-eid](https://github.com/miaojilab/emoera-eid) | [neweid.emoera.com](https://neweid.emoera.com/) | 统一身份与会员中心，覆盖账号、OAuth/OIDC、会员资料、报名与审核流程。 | Django · Python · MySQL |
 | [miaojilab/emoera-lottery-system](https://github.com/miaojilab/emoera-lottery-system) | [choujiang.emoera.com](https://choujiang.emoera.com/) | 多人抽奖房间系统，支持二维码报名、防重复中奖、抽奖历史与移动端适配。 | Next.js · React · MySQL |
 | [miaojilab/trust-center](https://github.com/miaojilab/trust-center) | [trust.emoera.com](https://trust.emoera.com/) | 信任中心 / KYC 服务，用于身份验证、授权回调与可信资料管理。 | Node.js · Express · React |
 
