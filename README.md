@@ -32,7 +32,7 @@ focus:     [Identity, Cloud Services, Trust Systems, Developer Tooling, AI Appli
 style:     secure by default · clean architecture · useful products first
 ```
 
-我长期主导建设 E时代产品与云服务生态，覆盖统一身份、云数据库、对象存储、人机验证、信任中心、开发者工具与活动系统等方向。开源项目以“可读、可部署、可二次开发”为目标，尽量保留真实产品形态，同时移除生产私有配置。
+我长期主导 E时代产品与云服务生态建设，覆盖统一身份、云数据库、对象存储、人机验证、信任中心、开发者工具与活动系统等方向。相关项目陆续开源，分享实际产品开发中的设计思路与工程实现，欢迎交流与参与。
 
 ---
 
